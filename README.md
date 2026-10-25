@@ -87,6 +87,8 @@ Fecha y modalidad de la demostración: [fecha] · [presencial / videollamada]
 Splash
 
 
+<img width="365" height="698" alt="Captura de pantalla 2026-10-24 205831" src="https://github.com/user-attachments/assets/1c89c730-684a-481d-8466-e173800c5938" />
+
 
 ### Autenticación
 
@@ -124,10 +126,16 @@ Lista principal
 
 <img width="367" height="698" alt="Captura de pantalla 2026-10-24 203938" src="https://github.com/user-attachments/assets/242abc28-68e2-4a22-ae1c-16dccfc23fe6" />
 
-Lista detalle Estado vacío
+Lista detalle 
 
 
-<img width="364" height="695" alt="image" src="https://github.com/user-attachments/assets/8404878e-c619-4982-ab0b-0e6d7dee74be" />
+<img width="364" height="698" alt="Captura de pantalla 2026-10-24 205659" src="https://github.com/user-attachments/assets/f9979bd8-eba6-4e4c-919d-55b9fd37703f" />
+
+
+Estado vacío
+
+
+<img width="364" height="698" alt="Captura de pantalla 2026-10-24 205721" src="https://github.com/user-attachments/assets/d724a480-f7b9-4d8b-84be-e295d75ce5b4" />
 
 
 ### Formularios
