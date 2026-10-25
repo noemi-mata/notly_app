@@ -9,8 +9,9 @@ class AppColores {
   static const bordeTarjeta = Color(0xFFE6E0D4);
   static const azulSuave = Color(0xFFE8EEFD);
   static const error = Color(0xFFB42318);
+  static const errorSuave = Color(0xFFFDF2F1);
+  static const exito = Color(0xFF1F7A3D);
 
-  // Colores de avatares y etiquetas
   static const morado = Color(0xFF5B45C8);
   static const rosa = Color(0xFFB8325F);
   static const verde = Color(0xFF1F7A3D);
@@ -29,6 +30,7 @@ class AppTema {
       colorScheme: ColorScheme.fromSeed(seedColor: AppColores.primario)
           .copyWith(primary: AppColores.primario),
       scaffoldBackgroundColor: AppColores.fondo,
+      appBarTheme: const AppBarTheme(backgroundColor: AppColores.fondo),
       inputDecorationTheme: InputDecorationTheme(
         filled: true,
         fillColor: Colors.white,
@@ -37,8 +39,7 @@ class AppTema {
         border: borde,
         enabledBorder: borde,
         focusedBorder: borde.copyWith(
-          borderSide:
-              const BorderSide(color: AppColores.primario, width: 1.5),
+          borderSide: const BorderSide(color: AppColores.primario, width: 1.5),
         ),
         hintStyle: const TextStyle(color: Color(0xFF757575)),
       ),
